@@ -1,21 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.cd1f18bb.css",
-    "main.js": "/static/js/main.9c801a88.js",
-    "static/media/rm245-bb-03-e.jpg": "/static/media/rm245-bb-03-e.3ee447e737e7bb5e6b53.jpg",
+    "main.css": "/static/css/main.f6a877af.css",
+    "main.js": "/static/js/main.e8368f3a.js",
     "static/media/outdoor-deck.jpg": "/static/media/outdoor-deck.df747f130a3b9fb3882e.jpg",
-    "static/media/watercolor_background.jpg": "/static/media/watercolor_background.64db7a09ff8722904bc0.jpg",
     "static/media/maps.png": "/static/media/maps.788809f9d2ccbf0fd9d4.png",
     "static/media/LobsterTwo-Regular.ttf": "/static/media/LobsterTwo-Regular.c76900a6f5c1f87ce3aa.ttf",
     "static/media/LobsterTwo-Bold.ttf": "/static/media/LobsterTwo-Bold.62af20c377ea9b82a9a8.ttf",
     "static/media/Quicksand-Regular.ttf": "/static/media/Quicksand-Regular.67e7ce07307c681fb49d.ttf",
     "static/media/Quicksand-Light.ttf": "/static/media/Quicksand-Light.20523381a742ca1d4a26.ttf",
     "index.html": "/index.html",
-    "main.cd1f18bb.css.map": "/static/css/main.cd1f18bb.css.map",
-    "main.9c801a88.js.map": "/static/js/main.9c801a88.js.map"
+    "main.f6a877af.css.map": "/static/css/main.f6a877af.css.map",
+    "main.e8368f3a.js.map": "/static/js/main.e8368f3a.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd1f18bb.css",
-    "static/js/main.9c801a88.js"
+    "static/css/main.f6a877af.css",
+    "static/js/main.e8368f3a.js"
   ]
 }
